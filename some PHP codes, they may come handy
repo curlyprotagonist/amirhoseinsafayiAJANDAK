@@ -1,0 +1,39 @@
+Here's a simple script that uses the built-in echo function to output the text "The Best PHP Examples" to the page:
+start//
+
+<?php
+  // This is a single-line comment
+  
+  # You can also make single-line comments like this
+?>
+<?php
+/*
+This comment block spans
+over multiple 
+lines
+*/
+?>
+
+END//
+
+Variables
+Variables are the main way to store information in a PHP program.
+
+All variables in PHP start with a leading dollar sign like $variable_name.
+To assign a variable, use the = operator, 
+with the name of the variable on the left and the expression to be evaluated on the right.
+
+Syntax:
+<?php
+// Assign the value "Hello!" to the variable "greeting"
+$greeting = "Hello!";
+// Assign the value 8 to the variable "month"
+$month = 8;
+// Assign the value 2019 to the variable "year"
+$year = 2019;
+?>
+
+
+this log is under maintenance
+so plz wait until newer content
+
